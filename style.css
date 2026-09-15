@@ -504,7 +504,7 @@ section > p {
 .container_gallery {
   /* background: var(--color-gray-0); */
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 2rem;
   padding: 1rem;
   margin-top: 1rem;
