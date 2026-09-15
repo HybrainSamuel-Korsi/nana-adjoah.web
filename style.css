@@ -516,6 +516,7 @@ section > p {
   padding: 0.5rem;
   background: var(--color-gray-0);
   transition: var(--transition);
+  height: 250px;
 }
 
 .images_container:hover {
